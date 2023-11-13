@@ -1,0 +1,26 @@
+2023-11-12 18:05:36,327 - INFO - Game started.
+2023-11-12 18:05:49,645 - INFO - player X is bot
+2023-11-12 18:05:50,554 - INFO - player O is bot
+2023-11-12 18:05:50,563 - INFO - Player X placed X at (1, 1).
+2023-11-12 18:05:50,563 - INFO - Player O placed O at (2, 1).
+2023-11-12 18:05:50,563 - INFO - Player X placed X at (3, 1).
+2023-11-12 18:05:50,563 - INFO - Player O placed O at (3, 2).
+2023-11-12 18:05:50,566 - INFO - Player X placed X at (1, 3).
+2023-11-12 18:05:50,566 - INFO - Player O placed O at (1, 2).
+2023-11-12 18:05:50,568 - INFO - Player X placed X at (2, 3).
+2023-11-12 18:05:50,568 - INFO - Player O placed O at (2, 2).
+2023-11-12 18:05:50,569 - INFO - Player O wins the game.
+2023-11-12 18:05:50,571 - INFO - Game ended.
+2023-11-12 18:06:04,682 - INFO - Game started.
+2023-11-12 18:06:07,364 - INFO - player X is bot
+2023-11-12 18:06:11,286 - INFO - player O is human
+2023-11-12 18:06:11,290 - INFO - Player X placed X at (3, 2).
+2023-11-12 18:06:15,267 - INFO - Player O placed O at (2, 2).
+2023-11-12 18:06:15,269 - INFO - Player X placed X at (2, 1).
+2023-11-12 18:06:22,477 - INFO - Player O placed O at (1, 1).
+2023-11-12 18:06:22,477 - INFO - Player X placed X at (3, 3).
+2023-11-12 18:06:28,427 - INFO - Player O placed O at (1, 3).
+2023-11-12 18:06:28,428 - INFO - Player X placed X at (2, 3).
+2023-11-12 18:06:34,484 - INFO - Player O placed O at (1, 2).
+2023-11-12 18:06:34,485 - INFO - Player O wins the game.
+2023-11-12 18:06:34,485 - INFO - Game ended.
